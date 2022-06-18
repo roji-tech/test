@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/roji-tech/test/issues"
   },
-  "homepage": "https://roji-tech.github.io/test",
+  "homepage": "https://roji-tech.github.io/test/",
   "dependencies": {
     "gh-pages": "^4.0.0"
   }
